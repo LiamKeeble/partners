@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1617254266 "structure.tex" "structure.pdf" "structure" 1617254267
+["pdflatex"] 1617268088 "structure.tex" "structure.pdf" "structure" 1617268088
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -190,15 +190,16 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1617196839 2432456 b8785dd1ad4055b25adc651001a4578c ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "structure.aux" 1617254267 1386 3e76b87a72d5275c68b056c03e19a2cc "pdflatex"
-  "structure.nav" 1617254267 473 bf87307ba833616f82da764344749d38 "pdflatex"
-  "structure.out" 1617254267 52 7528e5298e1b9431624182199dd529fe "pdflatex"
-  "structure.tex" 1617254264 253 aa2bec1581c16cecd943d0acf4ad9b5d ""
+  "shannon.png" 1617267649 15637 37698d67ceb95cd5065e097abf7568f9 ""
+  "structure.aux" 1617268088 1958 aa2ddeb898936de61164653622b43457 "pdflatex"
+  "structure.nav" 1617268088 837 8c4642e64d841525beefb1755d4b6a18 "pdflatex"
+  "structure.out" 1617268088 115 18ce8b83570d74a52c557b055275f0ec "pdflatex"
+  "structure.tex" 1617268083 557 03ab0d2ad010285cb7e236550b57d2de ""
   (generated)
-  "structure.pdf"
-  "structure.log"
   "structure.out"
+  "structure.pdf"
+  "structure.aux"
+  "structure.nav"
+  "structure.log"
   "structure.snm"
   "structure.toc"
-  "structure.nav"
-  "structure.aux"

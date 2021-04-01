@@ -1,1 +1,2 @@
-\beamer@sectionintoc {1}{Finding structure}{1}{0}{1}
+\beamer@sectionintoc {1}{A model of meaning}{2}{0}{1}
+\beamer@sectionintoc {2}{Building from the bottom up}{3}{0}{2}
