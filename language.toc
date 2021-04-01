@@ -1,4 +1,4 @@
 \beamer@sectionintoc {1}{What is language?}{2}{0}{1}
-\beamer@sectionintoc {2}{Breaking sentences into phrases}{4}{0}{2}
-\beamer@sectionintoc {3}{Breaking phrases into words}{8}{0}{3}
-\beamer@sectionintoc {4}{Breaking words into morphs and sounds}{8}{0}{4}
+\beamer@sectionintoc {2}{Breaking sentences}{4}{0}{2}
+\beamer@sectionintoc {3}{Breaking words}{8}{0}{3}
+\beamer@sectionintoc {4}{Conclusions}{11}{0}{4}

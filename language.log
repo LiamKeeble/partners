@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.31)  1 APR 2021 08:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.31)  1 APR 2021 09:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -868,8 +868,16 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 ] [7
 
-] (./language.bbl)
-[8
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+]
+(./language.bbl) [12
 
  </usr/local/texlive/2020/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -881,19 +889,19 @@ Dictionary: translator-theorem-dictionary, Language: English
 \tf@snm=\write8
 \openout8 = `language.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
-(./language.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 100.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+ (./language.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
 Package rerunfilecheck Info: File `language.out' has not changed.
-(rerunfilecheck)             Checksum: D8DACE417FAF63BB93AA1A79A8347181;252.
+(rerunfilecheck)             Checksum: 56783DE63F8F8198D384A3F1D48AF2AF;200.
  ) 
 Here is how much of TeX's memory you used:
- 18101 strings out of 480608
- 349446 string characters out of 5903630
- 603176 words of memory out of 5000000
- 33536 multiletter control sequences out of 15000+600000
+ 18117 strings out of 480608
+ 349584 string characters out of 5903630
+ 607136 words of memory out of 5000000
+ 33544 multiletter control sequences out of 15000+600000
  534800 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,19n,83p,792b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -902,10 +910,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
 usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on language.pdf (8 pages, 72566 bytes).
+Output written on language.pdf (12 pages, 83066 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
- 339 compressed objects within 4 object streams
- 21 named destinations out of 1000 (max. 500000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 532 compressed objects within 6 object streams
+ 29 named destinations out of 1000 (max. 500000)
  75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
