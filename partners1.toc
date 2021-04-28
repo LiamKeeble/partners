@@ -1,4 +1,0 @@
-\beamer@sectionintoc {1}{Introduction to me}{1}{0}{1}
-\beamer@sectionintoc {2}{Introduction to the module}{3}{0}{2}
-\beamer@sectionintoc {3}{Introduction to our approach}{5}{0}{3}
-\beamer@sectionintoc {4}{Why?}{8}{0}{4}
