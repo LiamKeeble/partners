@@ -1,3 +1,4 @@
-\beamer@sectionintoc {1}{What is communication?}{4}{0}{1}
-\beamer@sectionintoc {2}{What is language?}{5}{0}{2}
-\beamer@sectionintoc {3}{Structure in language and meaning}{7}{0}{3}
+\beamer@sectionintoc {1}{The problem of language structure}{4}{0}{1}
+\beamer@sectionintoc {2}{Foundations}{8}{0}{2}
+\beamer@sectionintoc {3}{Structure in words}{10}{0}{3}
+\beamer@sectionintoc {4}{Structure in sentences}{11}{0}{4}

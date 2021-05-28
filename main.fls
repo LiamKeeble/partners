@@ -1238,11 +1238,6 @@ INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./main.toc
 INPUT main.toc
 INPUT main.toc
-INPUT ./shannon.png
-INPUT ./shannon.png
-INPUT shannon.png
-INPUT ./shannon.png
-INPUT ./shannon.png
 INPUT ./FLN.jpg
 INPUT ./FLN.jpg
 INPUT FLN.jpg
