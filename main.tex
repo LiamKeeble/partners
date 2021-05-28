@@ -2,6 +2,7 @@
 \documentclass{beamer}
 \usetheme{Madrid}
 \usepackage{graphicx,harvard}
+\usepackage{qtree}
 \title{Structure and meaning}
 \author{Liam Keeble}
 \institute{School of English Literature, Language and Linguistics}
@@ -88,7 +89,17 @@
 \section{Structure in words}
 
 \begin{frame}{Morphology and meaning}
+	\Tree [.V un- [.V lock ] ]
+	\vspace{2cm}
 
+	\Tree [.A [.V un- [.V lock ] ] -able ]
+
+\end{frame}
+
+\begin{frame}{Morphology and meaning}
+	\Tree [.N [.A [.V un- [.V lock  ] ] -able ] -ism ]
+
+	\Tree [.N [.A [.V un- [.V lock ] ] -able ] -ology ]
 \end{frame}
 
 \section{Structure in sentences}
