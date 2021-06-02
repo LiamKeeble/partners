@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.22)  2 JUN 2021 08:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.22)  2 JUN 2021 08:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1200,12 +1200,19 @@ Overfull \hbox (64.67648pt too wide) has occurred while \output is active
 
 [13
 
-] (./main.bbl)
+]
 Overfull \hbox (64.67648pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 [14
+
+] (./main.bbl)
+Overfull \hbox (64.67648pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[15
 
  </usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -1222,10 +1229,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 2E7F662BC1D19E5D4FA494DC80CBB4A7;616.
  ) 
 Here is how much of TeX's memory you used:
- 21226 strings out of 478994
- 392825 string characters out of 5858184
- 692298 words of memory out of 5000000
- 38200 multiletter control sequences out of 15000+600000
+ 21230 strings out of 478994
+ 392860 string characters out of 5858184
+ 694299 words of memory out of 5000000
+ 38202 multiletter control sequences out of 15000+600000
  410830 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,15n,132p,425b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1234,10 +1241,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on main.pdf (14 pages, 254075 bytes).
+Output written on main.pdf (15 pages, 256952 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 416 compressed objects within 5 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 487 PDF objects out of 1000 (max. 8388607)
+ 441 compressed objects within 5 object streams
+ 35 named destinations out of 1000 (max. 500000)
  128 words of extra memory for PDF output out of 10000 (max. 10000000)
 
