@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.22)  28 MAY 2021 11:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.22)  2 JUN 2021 08:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1139,31 +1139,38 @@ Overfull \hbox (64.67648pt too wide) has occurred while \output is active
 [8
 
 ]
-<FLN.jpg, id=269, 1284.8pt x 879.285pt>
-File: FLN.jpg Graphic file (type jpg)
-<use FLN.jpg>
-Package pdftex.def Info: FLN.jpg  used on input line 85.
-(pdftex.def)             Requested size: 321.19922pt x 219.82071pt.
-
 Overfull \hbox (64.67648pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 [9
 
- <./FLN.jpg>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
+]
+<FLN.jpg, id=295, 1284.8pt x 879.285pt>
+File: FLN.jpg Graphic file (type jpg)
+<use FLN.jpg>
+Package pdftex.def Info: FLN.jpg  used on input line 99.
+(pdftex.def)             Requested size: 321.19922pt x 219.82071pt.
 
+Overfull \hbox (64.67648pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[10
+
+ <./FLN.jpg>]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 111
+.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 111
+.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 97.
+ut line 111.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1173,32 +1180,32 @@ Overfull \hbox (64.67648pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
-[10
-
-]
-Overfull \vbox (7.93822pt too high) detected at line 103
- []
-
-
-Overfull \hbox (64.67648pt too wide) has occurred while \output is active
- [][]  \OT1/cmss/m/n/6 ([])  
- []
-
 [11
 
 ]
+Overfull \vbox (7.93822pt too high) detected at line 117
+ []
+
+
 Overfull \hbox (64.67648pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 [12
 
-] (./main.bbl)
+]
 Overfull \hbox (64.67648pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
 
 [13
+
+] (./main.bbl)
+Overfull \hbox (64.67648pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/6 ([])  
+ []
+
+[14
 
  </usr/local/texlive/2021/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -1215,10 +1222,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 2E7F662BC1D19E5D4FA494DC80CBB4A7;616.
  ) 
 Here is how much of TeX's memory you used:
- 21222 strings out of 478994
- 392790 string characters out of 5858184
- 692299 words of memory out of 5000000
- 38198 multiletter control sequences out of 15000+600000
+ 21226 strings out of 478994
+ 392825 string characters out of 5858184
+ 692298 words of memory out of 5000000
+ 38200 multiletter control sequences out of 15000+600000
  410830 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,15n,132p,425b,602s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1227,10 +1234,10 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on main.pdf (13 pages, 251962 bytes).
+Output written on main.pdf (14 pages, 254075 bytes).
 PDF statistics:
- 434 PDF objects out of 1000 (max. 8388607)
- 391 compressed objects within 4 object streams
- 31 named destinations out of 1000 (max. 500000)
+ 461 PDF objects out of 1000 (max. 8388607)
+ 416 compressed objects within 5 object streams
+ 33 named destinations out of 1000 (max. 500000)
  128 words of extra memory for PDF output out of 10000 (max. 10000000)
 
